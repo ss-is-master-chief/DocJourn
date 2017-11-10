@@ -1,0 +1,131 @@
+#img-logo {
+  height: 100px;
+  width: 100px;
+}
+#img-logo-text {
+  height: 60px;
+  width: 260px;
+}
+#total-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2380B9;
+}
+#contact-us {
+  background-color: #2380B9;
+  color: white;
+  font-family: helvetica;
+}
+#about-docjourn {
+  font-family: helvetica;
+}
+#about-content {
+  font-family: helvetica;
+  font-size: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+#log-in {
+  font-family: helvetica;
+}
+#sign-up {
+  background-color: #2380B9;
+  color: white;
+  font-family: helvetica;
+}
+div.sign-up-area {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  background-color: #2471A3;
+  border-radius: 5px;
+  width: 392px;
+  display: block;
+}
+#login-sub {
+  color: #2380B9;
+}
+div.log-in-area{
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  color: white;
+  background-color: #2380B9;
+  border-radius: 5px;
+  width: 392px;
+  display: block;
+}
+input[type=text]{
+  padding: 10px 10px;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+input[type=email]{
+  padding: 10px 10px;
+  border-radius: 5px;
+}
+input[type=password]{
+  padding: 10px 10px;
+  border-radius: 5px;
+}
+input[type=submit]{
+  font-size: 20px;
+  padding: 8px;
+  background-color: white;
+  color: #2471A3;
+  border-radius: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+}
+#TA{
+  padding: 10px 10px;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+input[type=submit]:hover{
+  background-color: #48C9B0;
+  border-color: #17A589;
+  color: white;
+}
+label {
+  font-family: helvetica;
+  font-size: 22px;
+  padding: 5px;
+  margin: 3px;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #2471A3;
+}
+#create {
+  margin-left: 15px;
+  line-height: 70%;
+  padding-bottom: 12px;
+  text-align: center;
+}
+div.EmailSend {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  color: white;
+  background-color: #2380B9;
+  border-radius: 5px;
+  width: 392px;
+
+}
