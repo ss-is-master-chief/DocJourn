@@ -1,0 +1,27 @@
+.bar {
+  text-align: right;
+  margin: 0;
+  padding: 14px;
+  overflow: hidden;
+  color: white;
+  background-color: #2380B9;
+}
+#division {
+  padding: 10px;
+}
+#hello:hover {
+    background-color: grey;
+    text-decoration: none;
+    border: 2px solid black;
+}
+
+a.logout:link{
+  text-decoration: none;
+  padding: 10px 10px;
+}
+a.logout:hover {
+  background-color: grey;
+  color: white;
+  padding: 8px 8px;
+  border: 2px solid black;
+}
